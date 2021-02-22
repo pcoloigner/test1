@@ -35,6 +35,10 @@
     "dtoSuffix": "DTO",
     "otherModules": [],
     "enableTranslation": false,
-    "blueprints": []
+    "blueprints": [],
+    "azureAppServicePlan": "test1-plan",
+    "azureApplicationInsightsName": "test1-insights",
+    "azureAppServiceName": "test1pco",
+    "azureAppServiceDeploymentType": "github-action"
   }
 }
